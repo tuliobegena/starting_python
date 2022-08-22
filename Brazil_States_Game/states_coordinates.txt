@@ -1,0 +1,26 @@
+Acre,-352.0,110.0
+Alagoas,316.0,100.0
+Amapá,16.0,318.0
+Amazonas,-268.0,215.0
+Bahia,195.0,47.0
+Ceará,245.0,191.0
+Espírito Santo,241.0,-99.0
+Goiás,41.0,-23.0
+Maranhão,127.0,193.0
+Mato Grosso,-87.0,37.0
+Mato Grosso do Sul,-55.0,-114.0
+Minas Gerais,127.0,-73.0
+Pará,-26.0,200.0
+Paraíba,305.0,151.0
+Paraná,3.0,-203.0
+Pernambuco,280.0,128.0
+Piauí,168.0,129.0
+Rio de Janeiro,207.0,-150.0
+Rio Grande do Norte,315.0,181.0
+Rio Grande do Sul,-46.0,-306.0
+Rondônia,-211.0,69.0
+Roraima,-189.0,341.0
+Santa Catarina,44.0,-254.0
+São Paulo,58.0,-137.0
+Sergipe,305.0,77.0
+Tocantins,70.0,88.0
