@@ -13,10 +13,11 @@ To start working with CSV Data and the `pandas` library.
 
 It is possible to edit this game to play with any country, continent, etc. Here is how:  
 1. Use the GIF image you want and edit its name in main.py;  
-2. Edit the NUMBER_OF_STATES to the number of states the player will try to guess;  
+2. Edit the `NUMBER_OF_STATES` to the number of states the player will try to guess;  
 3. Prepare the states.txt with the names of the states, one per line.  
 4. Run the buildcsv_coor.py script and click inside each of the states in the same order they are in the states.txt.  
-Teses steps will add the coordinates to each state and create a CSV file from this data, ready to play.
+
+These steps will add the coordinates to each state and create a CSV file from this data, ready to play.
 
 ### How to use?
 
