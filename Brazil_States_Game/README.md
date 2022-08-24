@@ -2,6 +2,7 @@
 
 A python game with a basic GUI. The player tries to write correctly the name of all the brazilian states.  
 For each right guess, the name of the state is writen inside (or near) it and the counter is upgraded.
+![image](https://user-images.githubusercontent.com/96516134/186468844-f233f753-1f69-45d9-8668-e80b27e9f193.png)
 
 
 ### Why I used this project ?
