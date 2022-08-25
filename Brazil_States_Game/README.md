@@ -34,10 +34,7 @@ The project depends on the `pandas` and `turtle` libraries, install them with pi
 `pip install turtle`
 
 
-### Possible improvements
-
-- A timer coulb be implemented. Adding time for right guesses and subtracting for wrong ones.
-- The guessed states coulb be painted.
+### Updates
 
 
 ### Contributing
