@@ -1,6 +1,7 @@
 ### Units Converter
 
 A unit converter with a basic GUI. For now, it is possible to convert Celsius to Fahrenheit degrees.
+![image](https://user-images.githubusercontent.com/96516134/186763558-c8713e8f-0139-4ea4-9a58-845c45d2d4ad.png)
 
 
 ### Why I used this project ?
