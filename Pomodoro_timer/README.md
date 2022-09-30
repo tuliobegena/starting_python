@@ -1,6 +1,7 @@
 ### Pomodoro Timer
 
 A Pomodoro Timer with a intuitive GUI.
+
 ![image](https://raw.githubusercontent.com/tuliobgn/starting_python/main/Pomodoro_timer/preview_img.jpg)
 
 
