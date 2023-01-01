@@ -1,0 +1,500 @@
+1. der / die / das (def. art.) the; (dem. pron.) that, those; (rel. pron) who, that
+2. und (conj.) and
+3. sein (verb) to be; (aux./perfect tense)
+4. in (prep.) in (variation: im in the)
+5. ein (indef. art.) a, an; (pron.) one (of)
+6. zu (prep.) to, at; (adv.) too
+7. haben (verb) to have; (aux./perfect tense)
+8. ich (pers. pron.) I
+9. werden (verb) to become; (aux./future tense); ; (aux./passive voice)
+10. sie (pers. pron.) she, her (acc. form of sie [sing.]); they, them (acc. form of sie [pl.]; Sie (pers. pron.) you (formal)
+11. von (prep.) from, of
+12. nicht (adv.) not
+13. mit (prep.) with
+14. es (pers. pron.) it
+15. sich (refl. pron.) -self
+16. auch (adv.) also, too
+17. auf (prep.) on, at, in
+18. für (prep.) for
+19. an (prep.) at, on (variation: am at/on the)
+20. er (pers. pron.) he
+21. so (adv.) so; thus, this way, such
+22. dass (conj.) that
+23. können (verb) can, to be able
+24. dies- (det. /pron.) this, that
+25. als (conj.) as, when; (adv.) than
+26. ihr (pers. pron.) you (pl., familiar), her (dat. form of sie [sing.]); (poss. adj.) her, their, hers, theirs (poss. form of sie [sing.], sie [pl.]); Ihr (poss. adj.) your (formal, poss. form of Sie)
+27. ja (adv.) yes; certainly, really
+28. wie (adv.) how; as
+29. bei (prep.) by, with, at
+30. oder (conj.) or
+31. wir (pers. pron.) we
+32. aber (conj.) but; (adv./flavoring particle)
+33. dann (adv.) then
+34. man (pron.) one, you
+35. da (adv.) there; (conj.) because
+36. sein (poss. adj.) his, its (poss. form of er, es)
+37. noch (adv.) still, yet
+38. nach (prep.) after, toward
+39. was (pron.) what
+40. also (adv.) so, therefore
+41. aus (prep.) out, out of, from
+42. all (pron.) all
+43. wenn (conj.) if, when
+44. nur (adv.) only
+45. müssen (verb) to have to, must
+46. sagen (verb) to say
+47. um (prep.) around, at [variation: um … zu in order to]
+48. über (prep.) above, over, about
+49. machen (verb) to do, make
+50. kein (pron.) no, not a/an
+51. Jahr das, -e (noun) year
+52. du (pron.) you (familiar, sing.)
+53. mein (poss. adj.) my (poss. form of ich)
+54. schon (adv.) already; (adv./flavoring particle)
+55. vor (prep.) in front of, before, ago
+56. durch (prep.) through
+57. geben (verb) to give
+58. mehr (adv.) more
+59. andere, anderer, anderes (adj./pron.) other
+60. viel (adj./pron.) much, a lot, many
+61. kommen (verb) to come
+62. jetzt (adv.) now
+63. sollen (verb) should, ought to
+64. mir (pers. pron.) [to/for] me (dat. form of ich)
+65. wollen (verb) to want
+66. ganz (adj.) whole, all the; (adv.) quite
+67. mich (pers. pron.) me (acc. form of ich)
+68. immer (adv.) always
+69. gehen (verb) to go
+70. sehr (adv.) very
+71. hier (adv) here
+72. doch (adv.) however, still; (adv./flavoring particle)
+73. bis (prep./conj.) until
+74. groß (adj.) big, large, great
+75. wieder (adv.) again
+76. Mal das, -e (noun) time; mal (conj.) times [math]; (part.) time(s); once; just
+77. zwei (num.) two
+78. gut (adj.) good
+79. wissen (verb) to know
+80. neu (adj.) new
+81. sehen (verb) to see
+82. lassen (verb) to let, allow, have (something) done
+83. uns (pers. pron.) us (acc., dat. form of wir)
+84. weil (conj.) because
+85. unter (prep.) under
+86. denn (conj.) because; (part.) (used in questions to tone down bluntness)
+87. stehen (verb) to stand
+88. jed- (det./pron.) every, each
+89. Beispiel, das, -e (noun) example
+90. Zeit, die (noun) time
+91. erste, erster, erstes (adj.) first
+92. ihm (pers. pron.) him, it (dat. form of er, es)
+93. ihn (pers. pron.) him (acc. form of er)
+94. wo (adv.) where
+95. lang (adj.) long; lange (adv.) for a long time
+96. eigentlich (adv.) actually; (adj.) actual, real
+97. damit (adv.) with it; (conj.) so that
+98. selbst, selber (pron.) -self; (adv.) even
+99. unser (poss. adj.) our (poss. of wir)
+100. oben (adv.) above, up there
+101. drei (num.) three
+102. wenig (adj.) few; (pron.) little, few
+103. Frau, die, -en (noun) woman, wife, Mrs.
+104. Mensch, der, -en (noun) human being, person
+105. deutsch (adj.) German; Deutsch das (noun) German (language)
+106. Kind, das, -er (noun) child
+107. etwas (pron.) something, some, a little
+108. Tag, der, -e (noun) day
+109. nun (adv.) now
+110. finden (verb) to find
+111. nichts (pron.) nothing
+112. bleiben (verb) to stay
+113. sondern (conj.) but (on the contrary)
+114. klein (adj.) small, little
+115. zwischen (prep.) between
+116. alt (adj.) old
+117. gegen (prep.) against
+118. liegen (verb) to lie
+119. ohne (prep.) without (variation: ohne … zu without (doing something))
+120. nein (adv.) no
+121. heute (adv.) today
+122. weit (adj.) wide, far
+123. heißen (verb) to be called
+124. denken (verb) to think
+125. eben (adv.) just now; (part.) just, simply, exactly
+126. erst (adv.) first, only, not until; (part.) only now, already, more so
+127. natürlich (adj./adv.) natural(ly), of course
+128. ob (conj.) whether
+129. hoch (adj.) high
+130. beide (pron.) both
+131. Mann, der, -(ä)-er (noun) man
+132. einfach (adj.) simple, easy; (part.) simply
+133. vielleicht (adv.) maybe, perhaps; (part.) maybe, really
+134. dort (adv.) there
+135. dabei (adv.) with it; there, in the process
+136. einmal (adv.) once
+137. ihnen (pers. pron.) [to/for] them (dat. form of sie [pl.]); Ihnen (pers. pron.) [to/for] you (dat. form of Sie [pl.])
+138. welch- (det./pron.) which
+139. nehmen (verb) to take
+140. tun (verb) to do
+141. seit (prep.) since, for (a period of time)
+142. dürfen (verb) to be allowed, may
+143. glauben (verb) to believe
+144. halten (verb) to stop, hold
+145. nennen (verb) to name, call (a thing/person something)
+146. Land, das, -(ä) er (noun) land, country, state
+147. letzt- (adj.) last
+148. gleich (adj./adv.) same; right away, just
+149. solch- (det./pron.) such
+150. dazu (adv.) in addition, furthermore, to that
+151. mögen (verb) to like
+152. Frage, die, -en (noun) question
+153. gar (adv.) at all
+154. zeigen (verb) to show
+155. führen (verb) to lead
+156. möglich (adj.) possible
+157. sprechen (verb) to speak
+158. während (prep.) during; (conj.) while, whereas
+159. Haus, das, -(äu)-er (noun) house
+160. Fall, der, -(ä)-e, fall, case
+161. eigen (adj.) one’s own
+162. bringen (verb) to bring, take
+163. Leute, die (pl. noun) people
+164. schön (adj.) beautiful, pleasant, good
+165. einige (pron./adj.) a few, some
+166. bereits (adv.) already
+167. Arbeit, die (noun) work
+168. leben (verb) to live
+169. fahren (verb) to drive, ride, go (by vehicle)
+170. meinen (verb) to think, have an opinion
+171. spät (adj.) late
+172. etwa (adv.) about, approximately; (part.) perhaps
+173. wer (interrog. pron.) who, whoever
+174. Prozent, das, -e (noun) percent
+175. fragen (verb) to ask
+176. gerade (adv.) just, just now; (adj.) straight
+177. wichtig (adj.) important
+178. zwar (adv.) admittedly, to be precise
+179. Hand, die -(ä)-e, hand
+180. wirklich (adj./adv.) real(ly), actual(ly)
+181. kennen (verb) to know
+182. weitere(-r/-s) (adj.) additional
+183. genau (adj.) exact
+184. jung (adj.) young
+185. gelten (verb) to be valid
+186. Stadt, die -(ä)-e (noun) city
+187. Herr, der, -en (noun) gentleman, Mr.
+188. Teil, der/das, -e (noun) part
+189. Problem, das, -e (noun) problem
+190. Welt, die, -en (noun) world
+191. jedoch (adv.) however
+192. stellen (verb) to place, set (in a horizontal position)
+193. darauf (adv.) on it, to it
+194. bisschen, bissel (pron.) little bit
+195. vier (num.) four
+196. nie (adv.) never
+197. spielen (verb) to play
+198. denen (dem. pron./rel. pron.) [to/for] whom/that (dat. pl. form of die [pl.])
+199. Recht, das, -e (noun) right, law; recht (adj.) all right; (part.) rather
+200. arbeiten (verb) to work
+201. brauchen (verb) to need
+202. folgen (verb) to follow
+203. lernen (verb) to learn
+204. Ende, das, -n (noun) end
+205. kurz (adj.) short
+206. Million, die, -en (noun) million
+207. stark (adj.) strong
+208. Schule, die, -n (noun) school
+209. Woche, die, -n (noun) week
+210. bestehen (verb) to exist, insist, pass (an exam)
+211. richtig (adj.) right, correct
+212. dich (pers. pron.) you (acc. form of du)
+213. dafür (adv.) for it
+214. sowie (conj.) as well as
+215. oft (adv.) often
+216. Vater, der, -(ä) father
+217. Seite, die, -n side, page
+218. verschieden (adj.) different
+219. halt (part.) just, simply
+220. Leben, das (noun) life
+221. allerdings (adv.) though, indeed, certainly
+222. verstehen (verb) to understand
+223. fast (adv.) almost
+224. wohl (adv.) well; (part.) probably
+225. dein (poss. adj./poss. pron.) your (poss. form of du)
+226. bestimmt (adj.) special, certain
+227. Mutter, die, -(ü) mother
+228. setzen (verb) to set, place, put
+229. überhaupt (adv.) at all, generally
+230. Grund, der, -(ü)-e (noun) reason, basis
+231. besser (adj.) better
+232. dir (pers. pron.) [to/for] you (dat. form of du)
+233. schnell (adj.) fast
+234. bekommen (verb) to get, receive
+235. gern(e) (adv.) gladly
+236. Auge, das, -n (noun) eye
+237. sicher (adj.) safe, secure, certain
+238. davon (adv.) from it, about it, thereof
+239. beginnen (verb) to begin
+240. erzählen (verb) to narrate, tell
+241. versuchen (verb) to try, attempt
+242. besonders (adv.) especially
+243. Wort, das, -e/-(ö)-er word
+244. neben (prep.) beside, next to
+245. schreiben (verb) to write
+246. warum (adv.) why
+247. nächst- (adj.) next
+248. laufen (verb) to run
+249. Geld, das (noun) money
+250. erklären (verb) to explain
+251. Sache, die, -n (noun) thing
+252. Art, die, -en (noun) kind, type
+253. politisch (adj.) political
+254. entsprechen (verb) to correspond to (+ dat. obj.)
+255. klar (adj.) clear
+256. schwer (adj.) difficult, heavy
+257. Bereich, der, -e (noun) area, region
+258. allein(e) (adv.) alone
+259. kaum (adv.) hardly
+260. Weg, der, -e (noun) way
+261. sitzen (verb) to sit, to be sitting
+262. Stunde, die, -n (noun) hour
+263. einzeln (adj.) individual
+264. deshalb (adv.) for that reason
+265. deren (dem. pron./rel. pron.) whose (gen. form of die [pl.])
+266. ziehen (verb) to pull, move
+267. na (part.) well
+268. beziehungsweise (bzw.) (conj.) and/or
+269. sogar (adv.) even, in fact
+270. Name, der, -n (noun) name
+271. damals (adv.) back then
+272. fünf (num.) five
+273. Geschichte, die, -n (noun) history, story
+274. wegen (prep.) because of
+275. Gesellschaft, die, -en (noun) society, company
+276. scheinen (verb) to shine, seem, appear
+277. darüber (adv.) above it, about it
+278. fallen (verb) to fall
+279. Kopf, der, -(ö)-e (noun) head
+280. gehören (verb) to belong to
+281. entstehen (verb) to originate
+282. bekannt (adj.) well-known
+283. erhalten (verb) to receive
+284. Paar, das, -e (noun) pair, couple; paar (pron.) few, couple
+285. leicht (adj.) light, easy
+286. Möglichkeit, die, -en (noun) possibility
+287. treffen (verb) to meet
+288. hinter (prep.) behind
+289. sonst (adv.) otherwise
+290. daran (adv.) on it
+291. Unternehmen, das, – (noun) enterprise, company
+292. weiter (adv.) further
+293. suchen (verb) to search, look for
+294. Bild, das, -er (noun) picture
+295. Buch, das, -er (noun) book
+296. legen (verb) to put, lay (in a horizontal position)
+297. Wasser, das (noun) water
+298. Stelle, die, -n (noun) place
+299. vor•stellen (verb) to introduce, imagine
+300. Form, die, -en (noun) form, shape
+301. handeln (verb) to deal, trade
+302. Mark, die, – (noun) mark (former unit of German currency)
+303. Entwicklung, die, -en (noun) development
+304. Monat, der, -e (noun) month
+305. erreichen (verb) to reach, achieve
+306. anders (pred. adj./adv.) different(ly)
+307. schließlich (adv.) in the end, finally
+308. tragen (verb) to carry, wear
+309. eher (adv.) earlier, more likely, rather
+310. Familie, die, -n (noun) family
+311. Morgen, der, – (noun) morning; morgen (adv.) tomorrow
+312. je (adv.) ever, each
+313. Abend, der, -e (noun) evening
+314. zehn (num.) ten
+315. darin (adv.) in it, inside
+316. rund (adj.) round; (adv.) approximately
+317. Aufgabe, die, -n (noun) assignment, task, job
+318. frei (adj.) free
+319. Universität, die, -en / Uni, die, -s (noun) university
+320. schaffen (verb) to manage; to create
+321. Sinn, der, -e (noun) sense, meaning
+322. früh (adj.) early
+323. lesen (verb) to read
+324. Staat, der, -en (noun) state
+325. Ziel, das, -e (noun) goal, destination
+326. gegenüber (prep.) opposite
+327. Freund, der, -e (noun) friend
+328. Thema, das, Themen (noun) theme, topic, subject
+329. unterschiedlich (adj.) different
+330. daher (adv.) from there, therefore
+331. Person, die, -en (noun) person
+332. schlecht (adj.) bad
+333. Euro, der, -s (noun) euro (unit of currency of the EU)
+334. obwohl (conj.) although
+335. Nacht, die, -(ä)-e (noun) night
+336. verlieren (verb) to lose
+337. Ding, das, -e (noun) thing
+338. deutlich (adj.) clear
+339. allgemein (adj.) general
+340. Raum, der, -(äu)-e (adj.) room, space
+341. Blick, der, -e (noun) look, view, glance
+342. einzig (adj.) only, single
+343. dar•stellen (verb) to depict, portray
+344. Platz, der, -(ä)-e (noun) place, room, square
+345. Zahl, die, -en (noun) number
+346. gemeinsam (adj.) common, mutual
+347. nah(e) (adj.) near, close; (prep.) near, close to
+348. System, das, -e (noun) system
+349. Uhr, die, -en (noun) clock
+350. dessen (dem. pron. / rel. pron.) whose (gen. form of der, das)
+351. Eltern, die (pl. noun) parents
+352. erkennen (verb) to recognize
+353. entwickeln (verb) to develop
+354. früher (adv.) earlier, in former times
+355. Straße, die, -n (noun) street
+356. reden (verb) to talk
+357. voll (adj.) full
+358. aus•sehen (verb) to appear, look (a certain way)
+359. erscheinen (verb) to appear
+360. mehrere (adj./pron.) several
+361. Minute, die, -n (noun) minute
+362. zunächst (adv.) first, at first, for now
+363. Gruppe, die, -n (noun) group
+364. Wert, der, -e (noun) value; wert (adj.) worth
+365. Gesicht, das, -er (noun) face
+366. irgendwie (adv.) somehow
+367. Sprache, die, -n (noun) language
+368. bilden (verb) to form, educate
+369. dadurch (adv.) through it, as a result
+370. direkt (adj.) direct, straight
+371. international (adj.) international
+372. sozial (adj.) social
+373. an•fangen (verb) to begin
+374. best- (adj.) best
+375. bisher (adv.) until now
+376. erwarten (verb) to expect
+377. Anfang, der, -e (noun) beginning
+378. nämlich (adv.) namely
+379. jen- (det./pron.) that, those
+380. wohnen (verb) to live
+381. rot (adj.) red
+382. offen (adj.) open
+383. Ort, der, -e (noun) place, town, location
+384. naja (part.) well …
+385. Moment, der (noun) moment
+386. betreffen (verb) to affect, concern
+387. meist- (adj.) most
+388. warten (verb) to wait
+389. Folge, die, -n (noun) result, consequence, series
+390. ab (prep.) from
+391. besonder- (adj.) special
+392. gewiss (adj.) certain
+393. Interesse, das, -n (noun) interest
+394. manchmal (adv.) sometimes
+395. Milliarde, die, -n (noun) billion
+396. Rolle, die, -n (noun) role
+397. jemand (pron.) someone
+398. vergehen (verb) to elapse (time); to decay
+399. öffentlich (adj.) public
+400. Tür, die, -en (noun) door
+401. Schüler, der, – (noun) pupil, student (primary and secondary level)
+402. Bedeutung, die, -en (noun) meaning
+403. Text, der, -e (noun) text
+404. ach (part.) oh
+405. Ergebnis, das, -se (noun) result
+406. helfen (verb) to help
+407. Krieg, der, -e (noun) war
+408. sechs (num.) six
+409. niemand (pron.) nobody
+410. gewinnen (verb) to win
+411. halb (adj.) half
+412. schließen (verb) to close
+413. Weise, die, -n (noun) way, manner
+414. Regierung, die, -en (noun) government
+415. wahrscheinlich (adj./adv.) probable; probably
+416. europäisch (adj.) European
+417. Stück, das, -e (noun) piece
+418. Wohnung, die, -en (noun) apartment
+419. fühlen (verb) to feel
+420. Gespräch, das, -e (noun) conversation
+421. bieten (verb) to offer
+422. interessieren (verb) to interest; sich interessieren to be interested
+423. wesentlich (adj.) essential, fundamental
+424. erinnern (verb) to remind; sich erinnern to remember
+425. Meter, der, – (noun) meter
+426. her (adv.) (in a direction) away from
+427. Punkt, der, -e (noun) dot, point, period
+428. Situation, die, -en (noun) situation
+429. ähnlich (adj.) similar
+430. ergeben (verb) to result in, yield
+431. dagegen (adv.) against it, on the other hand
+432. häufig (adj.) frequent
+433. Lehrer, der, – (noun) teacher
+434. an•bieten (verb) to offer
+435. ebenso (adv.) just as, as much as, as well
+436. studieren (verb) to study
+437. danach (adv.) after it, afterwards
+438. Preis, der, -e (noun) price, prize
+439. Abbildung, die, -en (noun) illustration
+440. Begriff, der, -e (noun) concept, idea, term
+441. Funktion, die, -en (noun) function
+442. verbinden (verb) to connect, link
+443. ziemlich (adv.) quite, fairly
+444. an•sehen (verb) to look at, watch
+445. Boden, der, -(ö) (noun) ground, floor, bottom
+446. fehlen (verb) to lack, to be missing, be absent (+ dat. obj.)
+447. Jahrhundert, das, -e (noun) century
+448. Sohn, der, -(ö)-e (noun) son
+449. Werk, das, -e (noun) work; factory
+450. bedeuten (verb) to mean
+451. schwarz (adj.) black
+452. vergleichen (verb) to compare
+453. außerdem (adv.) besides, in addition
+454. inzwischen (adv.) in the meantime
+455. sofort (adv.) immediately
+456. steigen (verb) to climb, increase
+457. Stimme, die, -n (noun) voice
+458. acht (num.) eight
+459. plötzlich (adj./adv.) sudden(ly)
+460. Rahmen, der, – (noun) frame, framework
+461. Richtung, die, -en (noun) direction
+462. völlig (adj.) complete
+463. nutzen (verb) to use
+464. Programm, das, -e (noun) program, schedule
+465. Angst, die, -(Ä)-e (noun) fear, anxiety
+466. gering (adj.) low (amount/level), small
+467. Information, die, -en (noun) information
+468. Kunst, die -(ü)-e (noun) art
+469. Musik, die (noun) music
+470. schauen (verb) to look
+471. schwierig (adj.) difficult
+472. Politik, die (noun) politics
+473. verlassen (verb) to leave
+474. manch- (det./pron.) some, many a
+475. bald (adv.) soon
+476. ein•setzen (verb) to put in, insert
+477. Beruf, der, -e (noun) occupation, job, profession
+478. praktisch (adj.) practical
+479. ändern (verb) to change
+480. genug (adv.) enough
+481. persönlich (adj./adv.) personal(ly)
+482. wachsen (verb) to grow
+483. aus•gehen (verb) to go out; assume
+484. Regel, die , -n (noun) rule
+485. Schritt, der, -e (noun) step
+486. -jährig (adj.) -year-old
+487. Absatz, der -(ä)-e (noun) sales; paragraph; heel
+488. geschehen (verb) to happen, occur (+ dat. obj.)
+489. Gott, der, -(ö)-er (noun) god; God
+490. Auto, das, -s (noun) car
+491. beschreiben (verb) to describe
+492. Beziehung, die, -en (noun) relation, relationship
+493. Erfahrung, die, -en (noun) experience
+494. Tisch, der, -e (noun) table
+495. an•nehmen (verb) to accept, assume
+496. endlich (adv.) finally, at last
+497. kriegen (verb) to get, receive
+498. Zukunft, die, -(ü)-e (noun) future
+499. planen (verb) to plan
+500. Spiel, das, -e (noun) game
