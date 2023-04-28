@@ -64,8 +64,8 @@ def flip_card(random_index):
         random_index (int): uses the index from the current card.
     """
     canvas.itemconfig(card_image, image=back_image)
-    canvas.itemconfig(title_lang, fill="white", text="Portuguese")
-    random_word = words_to_learn[random_index]["Portuguese"]
+    canvas.itemconfig(title_lang, fill="white", text="English")
+    random_word = words_to_learn[random_index]["English"]
     canvas.itemconfig(word, fill="white", text=random_word)
 
 #----------------------------- UI -----------------------------#

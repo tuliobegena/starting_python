@@ -10,7 +10,6 @@ ich,I,EU
 werden,will,vai
 sie,you,tu
 von,from,a partir de
-nicht,Not,Não
 mit,with,com
 es,it,isto
 sich,themselves,si mesmos
@@ -49,6 +48,7 @@ um,around,por aí
 über,over,sobre
 machen,make,fazer
 kein,no,não
+Jahr,Year,Ano
 du,you,tu
 mein,my,minha
 schon,nice,legais
@@ -143,12 +143,12 @@ dürfen,allowed to,permitido
 glauben,believe,acreditam
 halten,keep,guarda
 nennen,to name,nomear
-Land,country,país
 letzt-,last,último
 gleich,same,mesmo
 solch-,such-,tal-
 dazu,to,para
 mögen,like,gosta
+Frage,question,pergunta
 gar,at all,de forma alguma
 zeigen,demonstrate,demonstrar
 führen,to lead,liderar
@@ -158,6 +158,7 @@ während,during,no decorrer
 Haus,House,Casa
 Fall,case,caso
 eigen,own,ter
+bringen,bring,trazer
 Leute,People,Pessoas
 schön,beautiful,lindo
 einige,some,algum
@@ -170,6 +171,7 @@ spät,late,atrasado
 etwa,about,cerca de
 wer,who,quem
 Prozent,percent,por cento
+fragen,questions,questões
 gerade,just,somente
 wichtig,important,importante
 zwar,though,no entanto
@@ -218,6 +220,7 @@ Leben,Life,Vida
 allerdings,Indeed,De fato
 verstehen,to understand,para entender
 fast,nearly,aproximadamente
+wohl,well,Nós vamos
 dein,your,sua
 bestimmt,definitely,com certeza
 Mutter,mother,mãe
@@ -239,6 +242,7 @@ besonders,especially,especialmente
 Wort,Word,Palavra
 neben,Next,Próximo
 schreiben,write,Escreva
+warum,why,porque
 nächst-,next-,Próximo-
 laufen,to run,para correr
 Geld,money,dinheiro
@@ -247,6 +251,7 @@ Sache,Matter,Matéria
 Art,Kind,Gentil
 politisch,politically,politicamente
 entsprechen,correspond,corresponder
+klar,clear,Claro
 schwer,heavy,pesado
 Bereich,area,área
 allein(e),alone),sozinho)
@@ -269,6 +274,7 @@ wegen,because,Porque
 Gesellschaft,company,empresa
 scheinen,seem to be,parece ser
 darüber,about that,sobre isso
+fallen,fall,cair
 Kopf,head,cabeça
 gehören,belong,pertencer
 entstehen,develop,desenvolve
@@ -288,6 +294,7 @@ Bild,picture,foto
 Buch,A book,Um livro
 legen,place,"Lugar, colocar"
 Wasser,water,agua
+Stelle,Job,Trabalho
 vor•stellen,to introduce,para apresentar
 Form,shape,forma
 handeln,act,Aja
@@ -306,6 +313,7 @@ Abend,Evening,Noite
 zehn,ten,dez
 darin,in this,nisso
 rund,around,por aí
+Aufgabe,task,tarefa
 frei,free,gratuitamente
 Universität,university,universidade
 schaffen,create,crio
@@ -388,7 +396,6 @@ Rolle,role,Função
 jemand,someone,alguém
 vergehen,pass,passar
 öffentlich,publicly,publicamente
-Tür,door,porta
 Schüler,pupils,alunos
 Bedeutung,meaning,significado
 Text,text,texto
@@ -399,6 +406,7 @@ Krieg,War,Guerra
 sechs,six,seis
 niemand,nobody,ninguém
 gewinnen,to win,ganhar
+halb,half,metade
 schließen,shut down,desligar
 Weise,Way,Caminho
 Regierung,government,governo
@@ -454,6 +462,7 @@ nutzen,to use,usar
 Programm,program,programa
 Angst,fear,medo
 gering,small amount,Pequena quantidade
+Information,information,em formação
 Kunst,art,arte
 Musik,music,música
 schauen,look,olhar
@@ -476,6 +485,7 @@ Schritt,Step,Etapa
 Absatz,Unit volume,Volume da unidade
 geschehen,happen,acontecer
 Gott,God,Deus
+Auto,automobile,automóvel
 beschreiben,describe,descrever
 Beziehung,relationship,relação
 Erfahrung,experience,experiência
